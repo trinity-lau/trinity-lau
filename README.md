@@ -22,7 +22,7 @@ Tools:
  
 1. Minesweeper Validation :triangular_flag_on_post:
 
-
+This is a code that takes any grid as input (use -1 for bombs and numbers for counts) Checks if the center cell is a bomb. If it is, then return "It's a bomb". Otherwise, it counts how many bombs are in the cells given around the center. Also compares the count to the number in the center cellReturns "Valid" if they match, "Invalid" if not.
 
   Skills:
   - Python
@@ -33,7 +33,7 @@ Tools:
 
 2. Pizza Order :pizza:
 
-This is a code that allows the user to buy either a large or extra-large pizza base, and you will be able to pick the amount of toppings on it. After order you can use a coupon code which saves 10% off and there will be a receipt at the end that shows the subtotal before the HST(13%) and the total amount after.
+This is a code that allows the user to buy either a large or extra-large pizza base, and you will be able to pick the number of toppings on it. After ordering, you can use a coupon code that saves 10% off, and there will be a receipt at the end that shows the subtotal before the HST(13%) and the total amount after.
 
   Skills:
   - Python
@@ -44,6 +44,8 @@ This is a code that allows the user to buy either a large or extra-large pizza b
 
 3. Travel Guide :airplane:
 
+This is a Travel Guide that shows some of the most famous tourist attractions in Italy as well as the reviews for each place. There is also a page where you can search up any tourist attraction, and it will direct your search to Google.
+
   Skills:
   - Github
   - Windows
@@ -53,6 +55,8 @@ This is a code that allows the user to buy either a large or extra-large pizza b
   [Link to Github](https://github.com/trinity-lau/ICD2O)
 
 4. Grade Categorizer :100:
+
+This is a code that asks the user for their mark (0 to 100) and prints a message with their grade level based on the inputted mark.
 
   Skills:
   - Python

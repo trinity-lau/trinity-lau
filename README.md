@@ -9,11 +9,11 @@ Programming Languages:
 - CSS
 - HTML
 
-  Operating Systems:
+Operating Systems:
   - Windows
   - ChromeOS
  
-  Tools:
+Tools:
   - GitHub
   - VS Code
   - Google Colab

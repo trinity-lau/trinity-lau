@@ -50,7 +50,7 @@ Tools:
 
 4. Grade Categorizer :100:
 
-   Skills:
+  Skills:
   - Python
   - Windows
   - Google Colab

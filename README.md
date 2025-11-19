@@ -2,7 +2,7 @@
 
 My name is Trinity Lau. I am a student in ICD2O at Holy Trinity. 
 
-**Technical Skills:computer:** 
+**Technical Skills** :computer: 
 
 Programming Languages:
 - Python

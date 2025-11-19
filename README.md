@@ -22,6 +22,8 @@ Tools:
  
 1. Minesweeper Validation :triangular_flag_on_post:
 
+
+
   Skills:
   - Python
   - Windows
@@ -30,6 +32,8 @@ Tools:
   [Link to Google Colab](https://colab.research.google.com/drive/1BtqrM2dXJhzwwRCkb58YTsu81alMP5N-?usp=drive_link)
 
 2. Pizza Order :pizza:
+
+This is a code that allows the user to buy either a large or extra-large pizza base, and you will be able to pick the amount of toppings on it. After order you can use a coupon code which saves 10% off and there will be a receipt at the end that shows the subtotal before the HST(13%) and the total amount after.
 
   Skills:
   - Python

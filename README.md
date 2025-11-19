@@ -22,7 +22,7 @@ Tools:
  
 1. Minesweeper Validation :triangular_flag_on_post:
 
-This is a code that takes any grid as input (use -1 for bombs and numbers for counts) Checks if the center cell is a bomb. If it is, then return "It's a bomb". Otherwise, it counts how many bombs are in the cells given around the center. Also compares the count to the number in the center cellReturns "Valid" if they match, "Invalid" if not.
+This is a code that takes any grid as input (use -1 for bombs and numbers for counts) and checks if the center cell is a bomb. If it is, then return "It's a bomb". Otherwise, it counts how many bombs are in the cells given around the center. Also compares the count to the number in the center cellReturns "Valid" if they match, "Invalid" if not.
 
   Skills:
   - Python
@@ -66,6 +66,8 @@ This is a code that asks the user for their mark (0 to 100) and prints a message
   [Link to Google Colab](https://colab.research.google.com/drive/19SM_hzqnx_R35sRK70daEw6g_ka45w-1)
 
 5. Adventure Game :video_game:
+
+This is an adventure game that allows the user to pick their character, choose the level of difficulty, encounter a scenario, and in the end, it'll calculate their level based on their response.
 
  Skills:
   - Python

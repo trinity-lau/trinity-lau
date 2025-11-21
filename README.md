@@ -76,6 +76,15 @@ This is an adventure game that allows the user to pick their character, choose t
 
   [Link to Google Colab](https://colab.research.google.com/drive/1AS8vR7aRNRhIqIx2M7x1beQXo4JTLi9b)
 
+6. Number finder :mag:
+
+Find a two-digit positive integer that becomes 7 times smaller when its leftmost digit is removed. 
+
+ Skills:
+  - Python
+  - Windows
+  - Google Colab
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

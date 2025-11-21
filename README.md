@@ -78,7 +78,7 @@ This is an adventure game that allows the user to pick their character, choose t
 
 6. Number finder :mag:
 
-Find a two-digit positive integer that becomes 7 times smaller when its leftmost digit is removed. 
+Finds a two-digit positive integer that becomes 7 times smaller when its leftmost digit is removed. 
 
  Skills:
   - Python
